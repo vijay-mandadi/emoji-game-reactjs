@@ -1,0 +1,16 @@
+/* Write your code here. */
+.bg-container {
+  min-height: 90vh;
+  background-image: linear-gradient(to bottom, #6a59ff, #fbc7d4);
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: ;
+}
+
+.list-container {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  width: 80%;
+}

@@ -1,0 +1,20 @@
+/* Write your code here. */
+.listitem {
+  background-color: #9796f0;
+  margin: 20px;
+  border: 1px solid white;
+  border-radius: 15px;
+  padding: 40px;
+}
+
+.emoji {
+  height: 80px;
+  width: 80px;
+}
+
+button {
+  background-color: transparent;
+  border: 0px;
+  cursor: pointer;
+  outline: none;
+}

@@ -1,0 +1,37 @@
+/* Write your code here. */
+.navbar-container {
+  height: 13vh;
+  background-color: #9796f0;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 40px;
+  padding-right: 60px;
+  align-items: center;
+}
+
+.logo {
+  height: 50px;
+  width: 50px;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  font-family: 'Roboto';
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.score-container {
+  font-family: 'Roboto';
+  color: white;
+  font-size: 18px;
+  display: flex;
+  justify-content: space-between;
+  font-weight: 500;
+}
+
+.score {
+  margin-right: 20px;
+}
